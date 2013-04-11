@@ -1,0 +1,8 @@
+.evenrow {
+ background-color: #dddddd;
+ color: #666666;
+}
+.selected {
+ font-weight: bold;
+ background-color: #ddddff;
+}
